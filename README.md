@@ -1,10 +1,9 @@
 # 🎯┃JOGO DE ADIVINHAÇÃO EM JAVA
 
-┌──────────────────────────────────────────────┐
-│  🚀 Meu primeiro projeto em Java             │
-│  💻 Foco em lógica de programação           │
-└──────────────────────────────────────────────┘
 
+  🚀 Meu primeiro projeto em Java             
+  💻 Foco em lógica de programação 
+  
 ---
 
 ## 📌┃SOBRE O PROJETO
